@@ -1,0 +1,80 @@
+name: Node.js CI
+
+on:
+  # Topic branches are covered by the pull_request trigger below; listing them
+  # here too would run the same commit twice once a PR is open.
+  push:
+    branches:
+      - develop
+      - release/*
+  pull_request:
+    branches:
+      - develop
+
+# Supersede an in-flight run when new commits land on the same branch/PR.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.ref_name }}
+  cancel-in-progress: true
+
+jobs:
+  # e2e and unit are separate jobs so each reports its own check: a unit failure no
+  # longer hides behind (or blocks) the e2e result, and both always run.
+  e2e:
+    name: E2E Tests
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [24.x]
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+    - name: Cache Solidity build
+      uses: actions/cache@v4
+      with:
+        path: |
+          cache
+          artifacts
+        key: solidity-${{ hashFiles('contracts/**/*.sol', 'hardhat.config.cjs', 'package-lock.json') }}
+        restore-keys: |
+          solidity-
+    - run: npm i
+    - name: Run E2E Tests
+      run: npm run test:e2e:all
+
+  unit:
+    name: Unit Tests
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [24.x]
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+    - name: Cache Solidity build
+      uses: actions/cache@v4
+      with:
+        path: |
+          cache
+          artifacts
+        key: solidity-${{ hashFiles('contracts/**/*.sol', 'hardhat.config.cjs', 'package-lock.json') }}
+        restore-keys: |
+          solidity-
+    - run: npm i
+    - name: Run Unit Tests
+      run: npm run test:unit:all
+      env:
+        # The locker suite (RaacLiquidLockerZapFork) resets the network onto a mainnet
+        # fork, so it needs an RPC URL. Secrets are not exported automatically.
+        HARDHAT_FORK_URL: ${{ secrets.HARDHAT_FORK_URL }}

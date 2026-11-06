@@ -1,0 +1,12 @@
+node_modules
+.env
+
+# Hardhat files
+cache
+artifacts
+generated
+
+.DS_STORE
+
+/dist
+*.log

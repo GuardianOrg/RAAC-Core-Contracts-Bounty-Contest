@@ -1,0 +1,20 @@
+node_modules
+.env
+coverage
+coverage.json
+
+# Hardhat files
+cache
+artifacts
+# Allow everything in packages/@raac and rely on its local gitignore
+!packages/@raac/*
+
+.DS_STORE
+.idea/
+typechain-types/
+venv/
+
+.env.enc
+library/Deployer/networks/.deployments/
+
+.claude

@@ -1,0 +1,1172 @@
+[
+    {
+        "total": 2390325,
+        "percent": 0.113825,
+        "monthlyVelocity": 2390325,
+        "month": 0
+    },
+    {
+        "total": 2878719.885,
+        "percent": 0.1370818993,
+        "monthlyVelocity": 488395,
+        "month": 1
+    },
+    {
+        "total": 3367114.77,
+        "percent": 0.1603387985,
+        "monthlyVelocity": 488395,
+        "month": 2
+    },
+    {
+        "total": 3855509.654,
+        "percent": 0.1835956978,
+        "monthlyVelocity": 488395,
+        "month": 3
+    },
+    {
+        "total": 4343904.539,
+        "percent": 0.2068525971,
+        "monthlyVelocity": 488395,
+        "month": 4
+    },
+    {
+        "total": 4832299.424,
+        "percent": 0.2301094964,
+        "monthlyVelocity": 488395,
+        "month": 5
+    },
+    {
+        "total": 5320694.309,
+        "percent": 0.2533663956,
+        "monthlyVelocity": 488395,
+        "month": 6
+    },
+    {
+        "total": 5809089.193,
+        "percent": 0.2766232949,
+        "monthlyVelocity": 488395,
+        "month": 7
+    },
+    {
+        "total": 6297484.078,
+        "percent": 0.2998801942,
+        "monthlyVelocity": 488395,
+        "month": 8
+    },
+    {
+        "total": 6785878.963,
+        "percent": 0.3231370935,
+        "monthlyVelocity": 488395,
+        "month": 9
+    },
+    {
+        "total": 7274273.848,
+        "percent": 0.3463939927,
+        "monthlyVelocity": 488395,
+        "month": 10
+    },
+    {
+        "total": 7762668.732,
+        "percent": 0.369650892,
+        "monthlyVelocity": 488395,
+        "month": 11
+    },
+    {
+        "total": 8251063.617,
+        "percent": 0.3929077913,
+        "monthlyVelocity": 488395,
+        "month": 12
+    },
+    {
+        "total": 8739458.502,
+        "percent": 0.4161646906,
+        "monthlyVelocity": 488395,
+        "month": 13
+    },
+    {
+        "total": 9227853.387,
+        "percent": 0.4394215898,
+        "monthlyVelocity": 488395,
+        "month": 14
+    },
+    {
+        "total": 9716248.271,
+        "percent": 0.4626784891,
+        "monthlyVelocity": 488395,
+        "month": 15
+    },
+    {
+        "total": 10204643.16,
+        "percent": 0.4859353884,
+        "monthlyVelocity": 488395,
+        "month": 16
+    },
+    {
+        "total": 10693038.04,
+        "percent": 0.5091922877,
+        "monthlyVelocity": 488395,
+        "month": 17
+    },
+    {
+        "total": 11181432.93,
+        "percent": 0.5324491869,
+        "monthlyVelocity": 488395,
+        "month": 18
+    },
+    {
+        "total": 11564827.81,
+        "percent": 0.5507060862,
+        "monthlyVelocity": 383395,
+        "month": 19
+    },
+    {
+        "total": 11948222.7,
+        "percent": 0.5689629855,
+        "monthlyVelocity": 383395,
+        "month": 20
+    },
+    {
+        "total": 12331617.58,
+        "percent": 0.5872198848,
+        "monthlyVelocity": 383395,
+        "month": 21
+    },
+    {
+        "total": 12715012.46,
+        "percent": 0.605476784,
+        "monthlyVelocity": 383395,
+        "month": 22
+    },
+    {
+        "total": 13098407.35,
+        "percent": 0.6237336833,
+        "monthlyVelocity": 383395,
+        "month": 23
+    },
+    {
+        "total": 13481802.23,
+        "percent": 0.6419905826,
+        "monthlyVelocity": 383395,
+        "month": 24
+    },
+    {
+        "total": 13650997.12,
+        "percent": 0.6500474819,
+        "monthlyVelocity": 169195,
+        "month": 25
+    },
+    {
+        "total": 13820192,
+        "percent": 0.6581043811,
+        "monthlyVelocity": 169195,
+        "month": 26
+    },
+    {
+        "total": 13984511.91,
+        "percent": 0.6659291386,
+        "monthlyVelocity": 169195,
+        "month": 27
+    },
+    {
+        "total": 14148831.82,
+        "percent": 0.673753896,
+        "monthlyVelocity": 164320,
+        "month": 28
+    },
+    {
+        "total": 14313151.72,
+        "percent": 0.6815786534,
+        "monthlyVelocity": 164320,
+        "month": 29
+    },
+    {
+        "total": 14473998.21,
+        "percent": 0.6892380098,
+        "monthlyVelocity": 160846,
+        "month": 30
+    },
+    {
+        "total": 14633686.88,
+        "percent": 0.6968422325,
+        "monthlyVelocity": 159689,
+        "month": 31
+    },
+    {
+        "total": 14793375.56,
+        "percent": 0.7044464552,
+        "monthlyVelocity": 157489,
+        "month": 32
+    },
+    {
+        "total": 14950864.4,
+        "percent": 0.7119459239,
+        "monthlyVelocity": 155289,
+        "month": 33
+    },
+    {
+        "total": 15106153.41,
+        "percent": 0.7193406385,
+        "monthlyVelocity": 155289,
+        "month": 34
+    },
+    {
+        "total": 15261442.42,
+        "percent": 0.7267353532,
+        "monthlyVelocity": 155289,
+        "month": 35
+    },
+    {
+        "total": 15415686.5,
+        "percent": 0.7340803098,
+        "monthlyVelocity": 154244,
+        "month": 36
+    },
+    {
+        "total": 15566795.83,
+        "percent": 0.7412759918,
+        "monthlyVelocity": 151109,
+        "month": 37
+    },
+    {
+        "total": 15717905.15,
+        "percent": 0.7484716739,
+        "monthlyVelocity": 151109,
+        "month": 38
+    },
+    {
+        "total": 15869014.48,
+        "percent": 0.755667356,
+        "monthlyVelocity": 151109,
+        "month": 39
+    },
+    {
+        "total": 16016153.1,
+        "percent": 0.7626739571,
+        "monthlyVelocity": 147139,
+        "month": 40
+    },
+    {
+        "total": 16163291.72,
+        "percent": 0.7696805581,
+        "monthlyVelocity": 147139,
+        "month": 41
+    },
+    {
+        "total": 16310430.34,
+        "percent": 0.7766871592,
+        "monthlyVelocity": 147139,
+        "month": 42
+    },
+    {
+        "total": 16454739.84,
+        "percent": 0.7835590401,
+        "monthlyVelocity": 144309,
+        "month": 43
+    },
+    {
+        "total": 16598106.3,
+        "percent": 0.7903860143,
+        "monthlyVelocity": 143366,
+        "month": 44
+    },
+    {
+        "total": 16741472.76,
+        "percent": 0.7972129885,
+        "monthlyVelocity": 143366,
+        "month": 45
+    },
+    {
+        "total": 16883047.44,
+        "percent": 0.8039546398,
+        "monthlyVelocity": 141575,
+        "month": 46
+    },
+    {
+        "total": 17022830.34,
+        "percent": 0.8106109684,
+        "monthlyVelocity": 139783,
+        "month": 47
+    },
+    {
+        "total": 17162613.24,
+        "percent": 0.817267297,
+        "monthlyVelocity": 139783,
+        "month": 48
+    },
+    {
+        "total": 17229849.73,
+        "percent": 0.8204690347,
+        "monthlyVelocity": 67236,
+        "month": 49
+    },
+    {
+        "total": 17294532.94,
+        "percent": 0.8235491875,
+        "monthlyVelocity": 64683,
+        "month": 50
+    },
+    {
+        "total": 17359216.15,
+        "percent": 0.8266293403,
+        "monthlyVelocity": 64683,
+        "month": 51
+    },
+    {
+        "total": 17423899.35,
+        "percent": 0.8297094931,
+        "monthlyVelocity": 64683,
+        "month": 52
+    },
+    {
+        "total": 17485348.4,
+        "percent": 0.8326356382,
+        "monthlyVelocity": 61449,
+        "month": 53
+    },
+    {
+        "total": 17546797.45,
+        "percent": 0.8355617833,
+        "monthlyVelocity": 61449,
+        "month": 54
+    },
+    {
+        "total": 17608246.5,
+        "percent": 0.8384879285,
+        "monthlyVelocity": 61449,
+        "month": 55
+    },
+    {
+        "total": 17667391.21,
+        "percent": 0.8413043432,
+        "monthlyVelocity": 59145,
+        "month": 56
+    },
+    {
+        "total": 17725767.8,
+        "percent": 0.844084181,
+        "monthlyVelocity": 58377,
+        "month": 57
+    },
+    {
+        "total": 17784144.4,
+        "percent": 0.8468640189,
+        "monthlyVelocity": 58377,
+        "month": 58
+    },
+    {
+        "total": 17841061.58,
+        "percent": 0.8495743609,
+        "monthlyVelocity": 56917,
+        "month": 59
+    },
+    {
+        "total": 17896519.34,
+        "percent": 0.8522152068,
+        "monthlyVelocity": 55458,
+        "month": 60
+    },
+    {
+        "total": 17951977.11,
+        "percent": 0.8548560528,
+        "monthlyVelocity": 55458,
+        "month": 61
+    },
+    {
+        "total": 18006741.65,
+        "percent": 0.8574638882,
+        "monthlyVelocity": 54765,
+        "month": 62
+    },
+    {
+        "total": 18059426.53,
+        "percent": 0.8599726919,
+        "monthlyVelocity": 52685,
+        "month": 63
+    },
+    {
+        "total": 18112111.41,
+        "percent": 0.8624814956,
+        "monthlyVelocity": 52685,
+        "month": 64
+    },
+    {
+        "total": 18164796.29,
+        "percent": 0.8649902993,
+        "monthlyVelocity": 52685,
+        "month": 65
+    },
+    {
+        "total": 18214846.92,
+        "percent": 0.8673736628,
+        "monthlyVelocity": 50051,
+        "month": 66
+    },
+    {
+        "total": 18264897.55,
+        "percent": 0.8697570263,
+        "monthlyVelocity": 50051,
+        "month": 67
+    },
+    {
+        "total": 18314948.19,
+        "percent": 0.8721403898,
+        "monthlyVelocity": 50051,
+        "month": 68
+    },
+    {
+        "total": 18363121.92,
+        "percent": 0.8744343772,
+        "monthlyVelocity": 48174,
+        "month": 69
+    },
+    {
+        "total": 18410670.02,
+        "percent": 0.8766985725,
+        "monthlyVelocity": 47548,
+        "month": 70
+    },
+    {
+        "total": 18458218.12,
+        "percent": 0.8789627678,
+        "monthlyVelocity": 47548,
+        "month": 71
+    },
+    {
+        "total": 18504577.52,
+        "percent": 0.8811703583,
+        "monthlyVelocity": 46359,
+        "month": 72
+    },
+    {
+        "total": 18549748.22,
+        "percent": 0.8833213438,
+        "monthlyVelocity": 45171,
+        "month": 73
+    },
+    {
+        "total": 18594918.92,
+        "percent": 0.8854723294,
+        "monthlyVelocity": 45171,
+        "month": 74
+    },
+    {
+        "total": 18639524.98,
+        "percent": 0.8875964276,
+        "monthlyVelocity": 44606,
+        "month": 75
+    },
+    {
+        "total": 18682437.14,
+        "percent": 0.8896398639,
+        "monthlyVelocity": 42912,
+        "month": 76
+    },
+    {
+        "total": 18725349.3,
+        "percent": 0.8916833002,
+        "monthlyVelocity": 42912,
+        "month": 77
+    },
+    {
+        "total": 18768261.47,
+        "percent": 0.8937267365,
+        "monthlyVelocity": 42912,
+        "month": 78
+    },
+    {
+        "total": 18809028.02,
+        "percent": 0.895668001,
+        "monthlyVelocity": 40767,
+        "month": 79
+    },
+    {
+        "total": 18849794.57,
+        "percent": 0.8976092654,
+        "monthlyVelocity": 40767,
+        "month": 80
+    },
+    {
+        "total": 18890561.13,
+        "percent": 0.8995505299,
+        "monthlyVelocity": 40767,
+        "month": 81
+    },
+    {
+        "total": 18929798.94,
+        "percent": 0.9014189969,
+        "monthlyVelocity": 40767,
+        "month": 82
+    },
+    {
+        "total": 19007255.39,
+        "percent": 0.9032631982,
+        "monthlyVelocity": 39238,
+        "month": 83
+    },
+    {
+        "total": 19045015.41,
+        "percent": 0.9051073994,
+        "monthlyVelocity": 37760,
+        "month": 85
+    },
+    {
+        "total": 19081807.22,
+        "percent": 0.9069054956,
+        "monthlyVelocity": 36792,
+        "month": 86
+    },
+    {
+        "total": 19118599.04,
+        "percent": 0.9086574868,
+        "monthlyVelocity": 36792,
+        "month": 87
+    },
+    {
+        "total": 19154930.96,
+        "percent": 0.910409478,
+        "monthlyVelocity": 36332,
+        "month": 88
+    },
+    {
+        "total": 19189883.18,
+        "percent": 0.9138039609,
+        "monthlyVelocity": 34952,
+        "month": 89
+    },
+    {
+        "total": 19224835.4,
+        "percent": 0.9154683526,
+        "monthlyVelocity": 34952,
+        "month": 90
+    },
+    {
+        "total": 19259787.63,
+        "percent": 0.9171327442,
+        "monthlyVelocity": 34952,
+        "month": 91
+    },
+    {
+        "total": 19292992.24,
+        "percent": 0.9187139162,
+        "monthlyVelocity": 33205,
+        "month": 92
+    },
+    {
+        "total": 19326196.85,
+        "percent": 0.9202950883,
+        "monthlyVelocity": 33205,
+        "month": 93
+    },
+    {
+        "total": 19359401.47,
+        "percent": 0.9218762603,
+        "monthlyVelocity": 33205,
+        "month": 94
+    },
+    {
+        "total": 19391360.91,
+        "percent": 0.9233981384,
+        "monthlyVelocity": 31959,
+        "month": 95
+    },
+    {
+        "total": 19422905.29,
+        "percent": 0.9249002518,
+        "monthlyVelocity": 31544,
+        "month": 96
+    },
+    {
+        "total": 19454449.67,
+        "percent": 0.9264023653,
+        "monthlyVelocity": 31544,
+        "month": 97
+    },
+    {
+        "total": 19485205.44,
+        "percent": 0.9278669259,
+        "monthlyVelocity": 30756,
+        "month": 98
+    },
+    {
+        "total": 19515172.61,
+        "percent": 0.9292939336,
+        "monthlyVelocity": 29967,
+        "month": 99
+    },
+    {
+        "total": 19545139.77,
+        "percent": 0.9307209414,
+        "monthlyVelocity": 29967,
+        "month": 100
+    },
+    {
+        "total": 19574732.34,
+        "percent": 0.9321301116,
+        "monthlyVelocity": 29593,
+        "month": 101
+    },
+    {
+        "total": 19603201.15,
+        "percent": 0.933485769,
+        "monthlyVelocity": 28469,
+        "month": 102
+    },
+    {
+        "total": 19631669.95,
+        "percent": 0.9348414263,
+        "monthlyVelocity": 28469,
+        "month": 103
+    },
+    {
+        "total": 19660138.76,
+        "percent": 0.9361970837,
+        "monthlyVelocity": 28469,
+        "month": 104
+    },
+    {
+        "total": 19687184.12,
+        "percent": 0.9374849582,
+        "monthlyVelocity": 27045,
+        "month": 105
+    },
+    {
+        "total": 19714229.49,
+        "percent": 0.9387728327,
+        "monthlyVelocity": 27045,
+        "month": 106
+    },
+    {
+        "total": 19741274.85,
+        "percent": 0.9400607073,
+        "monthlyVelocity": 27045,
+        "month": 107
+    },
+    {
+        "total": 19767306.02,
+        "percent": 0.9413002865,
+        "monthlyVelocity": 26031,
+        "month": 108
+    },
+    {
+        "total": 19792999.11,
+        "percent": 0.9425237673,
+        "monthlyVelocity": 25693,
+        "month": 109
+    },
+    {
+        "total": 19818692.21,
+        "percent": 0.943747248,
+        "monthlyVelocity": 25693,
+        "month": 110
+    },
+    {
+        "total": 19843742.98,
+        "percent": 0.9449401418,
+        "monthlyVelocity": 25051,
+        "month": 111
+    },
+    {
+        "total": 19868151.42,
+        "percent": 0.9461024486,
+        "monthlyVelocity": 24408,
+        "month": 112
+    },
+    {
+        "total": 19892559.86,
+        "percent": 0.9472647553,
+        "monthlyVelocity": 24408,
+        "month": 113
+    },
+    {
+        "total": 19916663.2,
+        "percent": 0.9484125332,
+        "monthlyVelocity": 24103,
+        "month": 114
+    },
+    {
+        "total": 19939851.22,
+        "percent": 0.9495167246,
+        "monthlyVelocity": 23188,
+        "month": 115
+    },
+    {
+        "total": 19963039.24,
+        "percent": 0.950620916,
+        "monthlyVelocity": 23188,
+        "month": 116
+    },
+    {
+        "total": 19986227.26,
+        "percent": 0.9517251074,
+        "monthlyVelocity": 23188,
+        "month": 117
+    },
+    {
+        "total": 20008255.87,
+        "percent": 0.9527740893,
+        "monthlyVelocity": 22029,
+        "month": 118
+    },
+    {
+        "total": 20030284.49,
+        "percent": 0.9538230711,
+        "monthlyVelocity": 22029,
+        "month": 119
+    },
+    {
+        "total": 20052313.11,
+        "percent": 0.954872053,
+        "monthlyVelocity": 22029,
+        "month": 120
+    },
+    {
+        "total": 20073515.66,
+        "percent": 0.955881698,
+        "monthlyVelocity": 21203,
+        "month": 121
+    },
+    {
+        "total": 20094442.85,
+        "percent": 0.9568782307,
+        "monthlyVelocity": 20927,
+        "month": 122
+    },
+    {
+        "total": 20115370.03,
+        "percent": 0.9578747635,
+        "monthlyVelocity": 20927,
+        "month": 123
+    },
+    {
+        "total": 20135774.04,
+        "percent": 0.9588463829,
+        "monthlyVelocity": 20404,
+        "month": 124
+    },
+    {
+        "total": 20155654.87,
+        "percent": 0.959793089,
+        "monthlyVelocity": 19881,
+        "month": 125
+    },
+    {
+        "total": 20175535.7,
+        "percent": 0.9607397951,
+        "monthlyVelocity": 19881,
+        "month": 126
+    },
+    {
+        "total": 20195168.02,
+        "percent": 0.9616746674,
+        "monthlyVelocity": 19632,
+        "month": 127
+    },
+    {
+        "total": 20214054.8,
+        "percent": 0.9625740382,
+        "monthlyVelocity": 18887,
+        "month": 128
+    },
+    {
+        "total": 20232941.59,
+        "percent": 0.963473409,
+        "monthlyVelocity": 18887,
+        "month": 129
+    },
+    {
+        "total": 20251828.38,
+        "percent": 0.9643727798,
+        "monthlyVelocity": 18887,
+        "month": 130
+    },
+    {
+        "total": 20269770.82,
+        "percent": 0.9652271821,
+        "monthlyVelocity": 17942,
+        "month": 131
+    },
+    {
+        "total": 20287713.27,
+        "percent": 0.9660815843,
+        "monthlyVelocity": 17942,
+        "month": 132
+    },
+    {
+        "total": 20305655.72,
+        "percent": 0.9669359866,
+        "monthlyVelocity": 17942,
+        "month": 133
+    },
+    {
+        "total": 20322925.32,
+        "percent": 0.9677583488,
+        "monthlyVelocity": 17942,
+        "month": 134
+    },
+    {
+        "total": 20339970.65,
+        "percent": 0.9685700309,
+        "monthlyVelocity": 17942,
+        "month": 135
+    },
+    {
+        "total": 20357015.97,
+        "percent": 0.9693817131,
+        "monthlyVelocity": 17942,
+        "month": 136
+    },
+    {
+        "total": 20373635.17,
+        "percent": 0.9701731032,
+        "monthlyVelocity": 17942,
+        "month": 137
+    },
+    {
+        "total": 20389828.23,
+        "percent": 0.9709442012,
+        "monthlyVelocity": 17942,
+        "month": 138
+    },
+    {
+        "total": 20406021.28,
+        "percent": 0.9717152993,
+        "monthlyVelocity": 17942,
+        "month": 139
+    },
+    {
+        "total": 20422011.93,
+        "percent": 0.9724767586,
+        "monthlyVelocity": 17942,
+        "month": 140
+    },
+    {
+        "total": 20437395.34,
+        "percent": 0.9732093017,
+        "monthlyVelocity": 17942,
+        "month": 141
+    },
+    {
+        "total": 20452778.74,
+        "percent": 0.9739418449,
+        "monthlyVelocity": 17942,
+        "month": 142
+    },
+    {
+        "total": 20468162.15,
+        "percent": 0.974674388,
+        "monthlyVelocity": 17942,
+        "month": 143
+    },
+    {
+        "total": 20482776.38,
+        "percent": 0.975370304,
+        "monthlyVelocity": 14614,
+        "month": 144
+    },
+    {
+        "total": 20497390.62,
+        "percent": 0.97606622,
+        "monthlyVelocity": 14614,
+        "month": 145
+    },
+    {
+        "total": 20512004.85,
+        "percent": 0.9767621359,
+        "monthlyVelocity": 14614,
+        "month": 146
+    },
+    {
+        "total": 20526071.06,
+        "percent": 0.9774319551,
+        "monthlyVelocity": 14066,
+        "month": 147
+    },
+    {
+        "total": 20539954.58,
+        "percent": 0.9780930753,
+        "monthlyVelocity": 13884,
+        "month": 148
+    },
+    {
+        "total": 20553838.1,
+        "percent": 0.9787541954,
+        "monthlyVelocity": 13884,
+        "month": 149
+    },
+    {
+        "total": 20567374.54,
+        "percent": 0.9793987876,
+        "monthlyVelocity": 13536,
+        "month": 150
+    },
+    {
+        "total": 20580563.89,
+        "percent": 0.9800268518,
+        "monthlyVelocity": 13189,
+        "month": 151
+    },
+    {
+        "total": 20593753.24,
+        "percent": 0.980654916,
+        "monthlyVelocity": 13189,
+        "month": 152
+    },
+    {
+        "total": 20606777.72,
+        "percent": 0.9812751294,
+        "monthlyVelocity": 13024,
+        "month": 153
+    },
+    {
+        "total": 20619307.6,
+        "percent": 0.9818717903,
+        "monthlyVelocity": 12530,
+        "month": 154
+    },
+    {
+        "total": 20631837.48,
+        "percent": 0.9824684513,
+        "monthlyVelocity": 12530,
+        "month": 155
+    },
+    {
+        "total": 20644367.36,
+        "percent": 0.9830651123,
+        "monthlyVelocity": 12530,
+        "month": 156
+    },
+    {
+        "total": 20656270.74,
+        "percent": 0.9836319402,
+        "monthlyVelocity": 11903,
+        "month": 157
+    },
+    {
+        "total": 20668174.13,
+        "percent": 0.9841987681,
+        "monthlyVelocity": 11903,
+        "month": 158
+    },
+    {
+        "total": 20680077.52,
+        "percent": 0.984765596,
+        "monthlyVelocity": 11903,
+        "month": 159
+    },
+    {
+        "total": 20691534.53,
+        "percent": 0.9853111679,
+        "monthlyVelocity": 11457,
+        "month": 160
+    },
+    {
+        "total": 20702842.74,
+        "percent": 0.9858496544,
+        "monthlyVelocity": 11308,
+        "month": 161
+    },
+    {
+        "total": 20714150.96,
+        "percent": 0.9863881409,
+        "monthlyVelocity": 11308,
+        "month": 162
+    },
+    {
+        "total": 20725176.47,
+        "percent": 0.9869131653,
+        "monthlyVelocity": 11026,
+        "month": 163
+    },
+    {
+        "total": 20735919.28,
+        "percent": 0.9874247275,
+        "monthlyVelocity": 10743,
+        "month": 164
+    },
+    {
+        "total": 20746662.08,
+        "percent": 0.9879362897,
+        "monthlyVelocity": 10743,
+        "month": 165
+    },
+    {
+        "total": 20757270.6,
+        "percent": 0.9884414573,
+        "monthlyVelocity": 10609,
+        "month": 166
+    },
+    {
+        "total": 20767476.27,
+        "percent": 0.9889274414,
+        "monthlyVelocity": 10206,
+        "month": 167
+    },
+    {
+        "total": 20777681.94,
+        "percent": 0.9894134255,
+        "monthlyVelocity": 10206,
+        "month": 168
+    },
+    {
+        "total": 20787887.6,
+        "percent": 0.9898994096,
+        "monthlyVelocity": 10206,
+        "month": 169
+    },
+    {
+        "total": 20797582.98,
+        "percent": 0.9903610945,
+        "monthlyVelocity": 9695,
+        "month": 170
+    },
+    {
+        "total": 20807278.37,
+        "percent": 0.9908227794,
+        "monthlyVelocity": 9695,
+        "month": 171
+    },
+    {
+        "total": 20816973.75,
+        "percent": 0.9912844642,
+        "monthlyVelocity": 9695,
+        "month": 172
+    },
+    {
+        "total": 20826305.55,
+        "percent": 0.9917288359,
+        "monthlyVelocity": 9332,
+        "month": 173
+    },
+    {
+        "total": 20835516.17,
+        "percent": 0.9921674366,
+        "monthlyVelocity": 9211,
+        "month": 174
+    },
+    {
+        "total": 20844726.78,
+        "percent": 0.9926060372,
+        "monthlyVelocity": 9211,
+        "month": 175
+    },
+    {
+        "total": 20853707.13,
+        "percent": 0.9930336728,
+        "monthlyVelocity": 8980,
+        "month": 176
+    },
+    {
+        "total": 20862457.21,
+        "percent": 0.9934503434,
+        "monthlyVelocity": 8750,
+        "month": 177
+    },
+    {
+        "total": 20871207.3,
+        "percent": 0.9938670141,
+        "monthlyVelocity": 8750,
+        "month": 178
+    },
+    {
+        "total": 20879848,
+        "percent": 0.9942784763,
+        "monthlyVelocity": 8641,
+        "month": 179
+    },
+    {
+        "total": 20888160.58,
+        "percent": 0.9946743134,
+        "monthlyVelocity": 8313,
+        "month": 180
+    },
+    {
+        "total": 20896473.16,
+        "percent": 0.9950701504,
+        "monthlyVelocity": 8313,
+        "month": 181
+    },
+    {
+        "total": 20904785.74,
+        "percent": 0.9954659875,
+        "monthlyVelocity": 8313,
+        "month": 182
+    },
+    {
+        "total": 20912682.69,
+        "percent": 0.9958420327,
+        "monthlyVelocity": 7897,
+        "month": 183
+    },
+    {
+        "total": 20920579.64,
+        "percent": 0.9962180779,
+        "monthlyVelocity": 7897,
+        "month": 184
+    },
+    {
+        "total": 20928476.59,
+        "percent": 0.9965941232,
+        "monthlyVelocity": 7897,
+        "month": 185
+    },
+    {
+        "total": 20936077.4,
+        "percent": 0.9969560667,
+        "monthlyVelocity": 7601,
+        "month": 186
+    },
+    {
+        "total": 20943579.5,
+        "percent": 0.9973133097,
+        "monthlyVelocity": 7502,
+        "month": 187
+    },
+    {
+        "total": 20951081.6,
+        "percent": 0.9976705526,
+        "monthlyVelocity": 7502,
+        "month": 188
+    },
+    {
+        "total": 20958396.15,
+        "percent": 0.9980188645,
+        "monthlyVelocity": 7315,
+        "month": 189
+    },
+    {
+        "total": 20965523.15,
+        "percent": 0.9983582453,
+        "monthlyVelocity": 7127,
+        "month": 190
+    },
+    {
+        "total": 20972650.15,
+        "percent": 0.9986976261,
+        "monthlyVelocity": 7127,
+        "month": 191
+    },
+    {
+        "total": 20979688.06,
+        "percent": 0.9990327647,
+        "monthlyVelocity": 7038,
+        "month": 192
+    },
+    {
+        "total": 20986458.71,
+        "percent": 0.9993551765,
+        "monthlyVelocity": 6771,
+        "month": 193
+    },
+    {
+        "total": 20993229.35,
+        "percent": 0.9996775882,
+        "monthlyVelocity": 6771,
+        "month": 194
+    },
+    {
+        "total": 21000000,
+        "percent": 1,
+        "monthlyVelocity": 6771,
+        "month": 195
+    }
+]

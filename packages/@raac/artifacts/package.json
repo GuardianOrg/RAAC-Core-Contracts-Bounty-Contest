@@ -1,0 +1,56 @@
+{
+  "name": "@raac/artifacts",
+  "version": "1.0.0",
+  "description": "Contract artifacts, TypeChain types, and error utilities for the RAAC protocol",
+  "types": "typechain-types/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./typechain-types/index.d.ts"
+    },
+    "./typechain-types": {
+      "types": "./typechain-types/index.d.ts"
+    },
+    "./typechain-types/*": {
+      "types": "./typechain-types/*"
+    },
+    "./artifacts/*": "./artifacts/*",
+    "./generated/*": "./generated/*",
+    "./generated/errorMap.json": {
+      "types": "./src/errorMap.d.ts",
+      "default": "./generated/errorMap.json"
+    }
+  },
+  "files": [
+    "artifacts",
+    "typechain-types",
+    "generated",
+    "src/errorMap.d.ts",
+    "README.md"
+  ],
+  "scripts": {
+    "generate:errors": "ts-node -r tsconfig-paths/register bin/generateErrorMap.ts",
+    "setup": "bash bin/setup.sh"
+  },
+  "keywords": [
+    "RAAC",
+    "artifacts",
+    "typechain-types",
+    "blockchain",
+    "DeFi",
+    "smart-contracts",
+    "ethereum",
+    "solidity"
+  ],
+  "author": "RAAC",
+  "license": "MIT",
+  "peerDependencies": {
+    "ethers": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "ethers": "^6.15.0",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "5.9.3"
+  }
+}

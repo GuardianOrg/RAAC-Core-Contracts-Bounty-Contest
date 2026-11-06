@@ -1,0 +1,12 @@
+// tsconfig.dts.json
+{
+    "compilerOptions": {
+      "declaration": true,
+      "emitDeclarationOnly": true,
+      "outDir": "typechain-types-dts", // or wherever you want your .d.ts to go
+      "skipLibCheck": true,
+      "esModuleInterop": true
+    },
+    "include": ["typechain-types/**/*.ts"]
+  }
+  
